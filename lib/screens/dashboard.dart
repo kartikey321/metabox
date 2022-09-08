@@ -25,7 +25,7 @@ class _DashboardState extends State<Dashboard> {
   void initState() {
     // TODO: implement initState
     super.initState();
-    AuthHelper.walletConn();
+
     _scrollController = ScrollController();
     _scrollController!.addListener(_scrollListener);
   }
