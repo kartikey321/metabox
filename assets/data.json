@@ -1,0 +1,85 @@
+[
+    {
+        "Fridge":[
+           {
+            "name":"Fridge",
+            "url":"assets/images/apple_watch1.png",
+            "price":"50000",
+            "description":"",
+            "rating":4,
+                "reviews":15000
+           }
+        ],
+        "watches":[
+            {
+                "name":"Apple watches series 5/7",
+                "url":"assets/images/apple_watch1.png",
+                "price":"15000",
+                "description":"",
+                "rating":4,
+                "reviews":15000
+            },
+            {
+                "name":"Samsung watch",
+                "url":"assets/images/watch.png",
+                "price":"15000",
+                "description":"",
+                "rating":4,
+                "reviews":15000
+            },
+            {
+                "name":"Apple watches series 5/7",
+                "url":"assets/images/watch.png",
+                "price":"15000",
+                "description":"",
+                "rating":4,
+                "reviews":15000
+            }
+            
+        ],
+        "phones":[
+            {
+                "name":"Iphone 13",
+                "url":"assets/images/jwellery.png",
+                "price":"15000",
+                "description":"",
+                "rating":4,
+                "reviews":15000
+            },
+            {
+                "name":"Iphone 12",
+                "url":"assets/images/watch.png",
+                "price":"15000",
+                "description":"",
+                "rating":4,
+                "reviews":15000
+            },
+            {
+                "name":"Samsung Galaxy",
+                "url":"assets/images/watch.png",
+                "price":"15000",
+                "description":"",
+                "rating":4,
+                "reviews":15000
+            }
+        ],
+        "Jwellery":[
+           {
+                "name":"Earing",
+                "url":"assets/images/watch.png",
+                "price":"15000",
+                "description":"",
+                "rating":4,
+                "reviews":15000
+           },
+           {
+            "name":"Necklace",
+            "url":"assets/images/watch.png",
+            "price":"15000",
+            "description":"",
+            "rating":4,
+            "reviews":15000
+       }
+        ]
+    }
+]
